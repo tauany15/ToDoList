@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+.DS_Store
+
+# Confidential Keys
+.env
+
+#ignore
+about.ejs
+list.ejs
+date.js
+index.html
